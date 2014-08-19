@@ -1,0 +1,3 @@
+var vars = [
+    { foo: 'bar' }
+];
